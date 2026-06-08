@@ -1,0 +1,6 @@
+{
+  "name": "Cutler",
+  "description": "A modern, visually stunning premium fine-dining restaurant website with immersive visual storytelling and elegant interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
